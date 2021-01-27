@@ -1,0 +1,9 @@
+First Tag: <!DOCTYPE>
+2nd Tag: <html lang="en">     
+3rd Tag: <head>       <title>HTML Learning</title>
+         </head>
+4th tag:<body>
+<h1>TANSEER AHAMED</h1>
+<p></p>
+</body>
+</html>
